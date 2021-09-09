@@ -1,0 +1,21 @@
+.navbar-brand img{
+    width: 50px;
+    
+}
+.breadcrumb{
+    background: #f0f1f2;
+}
+.slider img{
+    height: 450px;
+}
+.alert-color{
+    background: #d4edda;
+    color: #155724 ;
+}
+.footer{
+    background: #17a2b8;
+    padding: 10px 0 2px;
+}
+.accordion-button::after {
+	display: none;
+}
